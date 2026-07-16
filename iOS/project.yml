@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: ContractiontimerTests
-      - path: Contractiontimer.storekit
     dependencies:
       - target: Contractiontimer
     settings:
